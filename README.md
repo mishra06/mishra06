@@ -1,7 +1,7 @@
 <p align="center">
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 </p><hr>
-<h1 align="center"><b>Hi , I'm Vibhakar mishra</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1><b>Hi , I'm Vibhakar mishra</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=<>+Passionate+Frontend-+Developer,;Computer+Science+and+Engineering+Student,;Active+Learner,;Love+to+learn+new+Technologies..</>">
