@@ -19,7 +19,7 @@
 - 💻 A passionate Frontend developer. <br>
 - 🔭: I’m currently working on many small MERN projects. <br>
 - 💬: Ask me about Data Structures, Java, Web Development. 📊📈🤖🧠 <br>
-- 🌱: I’m currently learning Frontend Frameworks. 🧠💻🤖 <br>
+- 🌱: I’m currently learning MERN STACK. 🧠💻🤖 <br>
 
 <br><br>
 
@@ -44,6 +44,13 @@
   ![React](https://img.shields.io/badge/react%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) &nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrp%20-23E34F26.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white) &nbsp;
   ![Tailwind](https://img.shields.io/badge/Tailwind%21-F7DF1E.svg?&style=for-the-badge&logo=TailwindCss&logoColor=white) &nbsp;
+
+<br>
+
+- **Back-End Technologies**:
+
+  ![NodeJs](https://img.shields.io/badge/nodeJs%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+  ![ExpressJs](https://img.shields.io/badge/expressjs%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 
 <br>
 
