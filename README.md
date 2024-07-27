@@ -116,10 +116,11 @@
 </ul>
 </div>
 
-<br><br>
+<br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mishra06&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Vibhakar Mishra Github Stats">
 </p>
+<br>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
