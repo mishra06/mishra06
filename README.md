@@ -105,7 +105,7 @@
 <a href="mailto:mishra.vibhakar7262@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
 </a> &nbsp;
-<a href="linkedin.com/in/vibhakar-mishra-7a6904214/" target="_blank">
+<a href="https://www.linkedin.com/in/vibhakar-mishra-7a6904214/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a> &nbsp;
 
