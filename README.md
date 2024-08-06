@@ -20,7 +20,7 @@
 - 🏫: I'm a BE, CSE Student.<br>
 - 🎒 I'm a 2023 graduate <br>
 - 💻 A passionate Frontend developer. <br>
-- 🔭: I’m currently working on many small MERN projects. <br>
+- 🔭: I’m currently learning Next.js <br>
 - 💬: Ask me about Data Structures, Java, Web Development. 📊📈🤖🧠 <br>
 - 🌱: I’m currently learning MERN STACK. 🧠💻🤖 <br>
 - 👨‍💻 All of my projects are available at (https://github.com/mishra06?tab=repositories) <br>
